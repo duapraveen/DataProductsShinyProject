@@ -21,7 +21,7 @@ knit        : slidify::knit2slides
 - Even harder for parents, especially first generation immigrant parents, to engage 
 
 
-#### This app allows students and parents to sit around the kitchen table and find 
+#### [This app](https://praveendua.shinyapps.io/shiny_project) allows students and parents to sit around the kitchen table and find 
 
 - how many colleges are accessible 
 - what is the tution cost
